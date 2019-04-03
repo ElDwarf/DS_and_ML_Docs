@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="8 352 627 107" style="enable-background:new 8 352 627 107;" xml:space="preserve">
+<desc>Una barra horizontal dividida en tres partes: el 70% es el conjunto de entrenamiento, el 15% es el conjunto de validación y el 15% es el conjunto de prueba</desc>
+<style type="text/css">
+	.esp-st0{fill:#4285F4;}
+	.esp-st1{fill:#4FC3F7;}
+	.esp-st2{fill:#F4B400;}
+	.esp-st3{fill:#424242;}
+	.esp-st4{font-family:'Arial-BoldMT';}
+	.esp-st5{font-size:12px;}
+	.esp-st6{enable-background:new    ;}
+</style>
+<rect x="11.8" y="355.9" class="esp-st0" width="452.9" height="63.3"/>
+<rect x="464.7" y="355.9" class="esp-st1" width="83" height="63.3"/>
+<rect x="547.7" y="355.9" class="esp-st2" width="83" height="63.3"/>
+<text transform="matrix(1 0 0 1 160.2501 434.8502)" class="esp-st3 esp-st4 esp-st5">Conjunto de entrenamiento</text>
+<text transform="matrix(1 0 0 1 471.2079 434.8502)" class="esp-st6"><tspan x="0" y="0" class="esp-st3 esp-st4 esp-st5">Conjunto de</tspan><tspan x="5.6" y="14.4" class="esp-st3 esp-st4 esp-st5">validación</tspan></text>
+<text transform="matrix(1 0 0 1 562.877 434.8501)" class="esp-st6"><tspan x="0" y="0" class="esp-st3 esp-st4 esp-st5">Conjunto</tspan><tspan x="-2.3" y="14.4" class="esp-st3 esp-st4 esp-st5">de prueba</tspan></text>
+</svg>

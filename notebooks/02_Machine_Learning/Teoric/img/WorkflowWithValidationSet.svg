@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0.0 0.0 960.0 540.0"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg87"
+   sodipodi:docname="WorkflowWithValidationSet.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <desc>Un flujo de trabajo similar al de la Figura 2, excepto que, en lugar de evaluar el modelo con el conjunto de prueba, el flujo de trabajo evalúa el modelo con el conjunto de validación. A continuación, una vez que el conjunto de entrenamiento y el de validación concuerdan en mayor o menor grado, confirma el modelo con el conjunto de prueba.</desc>
+  <metadata
+     id="metadata93">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs91" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1586"
+     inkscape:window-height="836"
+     id="namedview89"
+     showgrid="false"
+     inkscape:zoom="0.95459415"
+     inkscape:cx="539.51984"
+     inkscape:cy="285.40011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g85" />
+  <clipPath
+     id="g3265f266ac_0_158.0">
+    <path
+       d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
+       clip-rule="nonzero"
+       id="path2" />
+  </clipPath>
+  <g
+     clip-path="url(#g3265f266ac_0_158.0)"
+     id="g85">
+    <path
+       d="m0 0l960.0 0l0 540.0l-960.0 0z"
+       id="path5"
+       fill-rule="evenodd"
+       fill="#ffffff" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m5.5091863 4.5905514l945.0079 0l0 274.83466l-945.0079 0z"
+       fill-rule="evenodd"
+       id="path7" />
+    <path
+       stroke="#999999"
+       stroke-width="2.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       stroke-dasharray="8.0,6.0"
+       d="m5.5091863 4.5905514l945.0079 0l0 274.83466l-945.0079 0z"
+       fill-rule="evenodd"
+       id="path9" />
+    <path
+       fill="#4285f4"
+       d="m47.065617 15.099737l378.07874 0l0 113.54331l-378.07874 0z"
+       fill-rule="evenodd"
+       id="path11" />
+    <path
+       fill="#4fc3f7"
+       d="m469.2152 15.107612l437.88977 0l0 113.54331l-437.88977 0z"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m425.14435 71.87139l44.06299 0"
+       fill-rule="evenodd"
+       id="path19" />
+    <path
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m425.14435 71.87139l33.78174 0"
+       fill-rule="evenodd"
+       id="path21" />
+    <path
+       fill="#424242"
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m458.9261 71.87139l-3.3737488 3.3737488l9.269318 -3.3737488l-9.269318 -3.3737488z"
+       fill-rule="evenodd"
+       id="path23" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m907.105 71.879265l24.999634 0l0 146.07874l-274.32245 0"
+       fill-rule="evenodd"
+       id="path25" />
+    <path
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m907.105 71.879265l24.999573 0l0 146.07874l-264.04114 0"
+       fill-rule="evenodd"
+       id="path27" />
+    <path
+       fill="#424242"
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m668.0634 217.95801l3.3737183 -3.3737488l-9.269287 3.3737488l9.269287 3.3737488z"
+       fill-rule="evenodd"
+       id="path29" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m259.66928 167.13387l398.11026 0l0 101.6693l-398.11026 0z"
+       fill-rule="evenodd"
+       id="path31" />
+    <path
+       d="m 286.10626,231.9363 h 344.63462 v 38.39999 H 286.10626 Z"
+       id="path35"
+       inkscape:connector-curvature="0"
+       style="fill:#4fc3f7;fill-rule:nonzero;stroke-width:1.27622712" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m47.065617 71.87139l-24.999449 0l0 146.11023l237.59787 0"
+       fill-rule="evenodd"
+       id="path41" />
+    <path
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m36.784355 71.87139l-14.718187 0l0 146.11023l237.59787 0"
+       fill-rule="evenodd"
+       id="path43" />
+    <path
+       fill="#424242"
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m36.78436 71.87139l-3.3737526 3.3737488l9.269302 -3.3737488l-9.269302 -3.3737488z"
+       fill-rule="evenodd"
+       id="path45" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m31.68504 346.59198l402.23624 0l0 101.66928l-402.23624 0z"
+       fill-rule="evenodd"
+       id="path47" />
+    <path
+       d="m 18.10376,346.62905 h 415.78045 v 105.7854 H 18.10376 Z"
+       id="path49"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd;stroke:#000000;stroke-width:2.07414651;stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m31.065617 347.1286l391.1496 0l0 54.015747l-391.1496 0z"
+       fill-rule="evenodd"
+       id="path51" />
+    <path
+       d="M 54.042646,411.93721 H 393.4394 V 450.3372 H 54.042646 Z"
+       id="path55"
+       inkscape:connector-curvature="0"
+       style="fill:#4fc3f7;fill-rule:nonzero;stroke-width:1.26649177" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m278.95398 279.41208l-0.4409485 60.59842"
+       fill-rule="evenodd"
+       id="path61" />
+    <path
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m278.95398 279.41208l-0.3661499 50.317444"
+       fill-rule="evenodd"
+       id="path63" />
+    <path
+       fill="#424242"
+       stroke="#424242"
+       stroke-width="3.0"
+       stroke-linecap="butt"
+       d="m278.58786 329.72952l-3.349121 -3.3982239l3.3062134 9.29361l3.441101 -9.244507z"
+       fill-rule="evenodd"
+       id="path65" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m533.2746 346.5944l318.32977 0l0 101.66928l-318.32977 0z"
+       fill-rule="evenodd"
+       id="path67" />
+    <path
+       d="m 533.33449,346.65429 h 358.01749 v 101.5495 H 533.33449 Z"
+       id="path69"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd;stroke:#000000;stroke-width:2.11976409;stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m532.78436 347.131l309.55585 0l0 54.015747l-309.55585 0z"
+       fill-rule="evenodd"
+       id="path71" />
+    <path
+       d="m 548.36914,397.27368 h 326.57424 v 38.4 H 548.36914 Z"
+       id="path75"
+       inkscape:connector-curvature="0"
+       style="fill:#f4b400;fill-rule:nonzero;stroke-width:1.65551281" />
+    <path
+       fill="#000000"
+       fill-opacity="0.0"
+       d="m439.76642 397.42783l89.22833 0"
+       fill-rule="evenodd"
+       id="path79" />
+    <path
+       d="m439.76642 397.42783l78.94708 0"
+       id="path81"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill-rule="evenodd" />
+    <path
+       d="m518.7135 397.42783l-3.3737793 3.3737488l9.269348 -3.3737488l-9.269348 -3.3737488z"
+       id="path83"
+       stroke-linecap="butt"
+       stroke-width="3.0"
+       stroke="#424242"
+       fill-rule="evenodd"
+       fill="#424242" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="233.16946"
+       y="65.037361"
+       id="text3786"><tspan
+         sodipodi:role="line"
+         x="237.41426"
+         y="65.037361"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan197">Entrenar modelo con el </tspan><tspan
+         sodipodi:role="line"
+         x="233.16946"
+         y="98.370697"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan201">conjunto de entrenamiento</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="693.59583"
+       y="66.08493"
+       id="text3790"><tspan
+         sodipodi:role="line"
+         x="697.84064"
+         y="66.08493"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan146">Evaluar modelo con el </tspan><tspan
+         sodipodi:role="line"
+         x="693.59583"
+         y="99.418266"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan205">conjunto de validación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="456.70139"
+       y="194.30334"
+       id="text3794"><tspan
+         sodipodi:role="line"
+         x="460.94617"
+         y="194.30334"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan150">Ajustar el modelo en función </tspan><tspan
+         sodipodi:role="line"
+         x="460.94617"
+         y="227.63667"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan214">de los resultados con </tspan><tspan
+         sodipodi:role="line"
+         x="456.70139"
+         y="260.97"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan212">el conjunto de validación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="426.35919"
+       y="229.92058"
+       id="text3800"><tspan
+         sodipodi:role="line"
+         id="tspan3798"
+         x="426.35919"
+         y="253.51433"
+         style="font-weight:bold;font-size:29.33333397px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="225.15111"
+       y="374.48465"
+       id="text3804"><tspan
+         sodipodi:role="line"
+         x="229.3959"
+         y="374.48465"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan162">Seleccionar el modelo que </tspan><tspan
+         sodipodi:role="line"
+         x="229.3959"
+         y="407.81799"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan223">mejor se desempeñe con </tspan><tspan
+         sodipodi:role="line"
+         x="225.15111"
+         y="441.15131"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan221">el conjunto de validación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="711.01648"
+       y="391.24573"
+       id="text3814"><tspan
+         sodipodi:role="line"
+         x="715.26129"
+         y="391.24573"
+         style="font-weight:normal;font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan170">Confirmar resultados con </tspan><tspan
+         sodipodi:role="line"
+         x="711.01648"
+         y="424.57907"
+         style="font-weight:normal;font-size:26.66666603px;text-align:center;text-anchor:middle"
+         id="tspan227">el conjunto de prueba</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="664.15662"
+       y="381.8176"
+       id="text115"><tspan
+         sodipodi:role="line"
+         id="tspan113"
+         x="664.15662"
+         y="405.41135"></tspan><tspan
+         sodipodi:role="line"
+         x="664.15662"
+         y="438.74469"
+         id="tspan117" /></text>
+  </g>
+</svg>
